@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifty xmlns="http://nifty-gui.sourceforge.net/nifty-1.3.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://nifty-gui.sourceforge.net/nifty-1.3.xsd http://nifty-gui.sourceforge.net/nifty-1.3.xsd">
+
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+  <!-- HUD (start screen) -->
+  <!-- +++++++++++++++++++++++++++++++++++++++ -->
+
+  <screen id="start" controller="fabric$Mnclient">
+
+    <layer id="layer" backgroundColor="#803f" childLayout="center">
+      <panel id="panel" height="25%" width="35%" align="center" valign="center"
+             backgroundColor="#f60f" childLayout="center" visibleToMouse="false">
+
+
+        <text id="text" font="Interface/Fonts/PTMono.fnt" color="#ffff" text="Hello World!"
+              align="center" valign="center"/>
+
+      </panel>
+    </layer>
+
+  </screen>
+
+</nifty>
