@@ -1,2 +1,26 @@
 This directory contains images, fonts, and other assets used 
 in building The Fabric.
+
+The assets in the Effects directory are from JMonkeyEngine
+3.0. JMonkeyEngine is licensed under the BSD license; see:
+
+  http://wiki.jmonkeyengine.org/doku.php/bsd_license
+
+The Graphic assets in the Interface directory are Copyright 2012-2015
+by mikel evins.
+
+The Laconic fonts in the Interface/Fonts directory are licensed under
+the SIL Open Fonts License 1.1; see the file "SIL Open Font License
+1.1.txt" in the Interface Fonts directory.
+
+The planetary images in the Textures directory are temporary working
+images for testing only. They are obtained from from the following
+sources. Copyrights and licenses are as documented by their
+originators:
+
+http://planetpixelemporium.com/planets.html
+http://maps.jpl.nasa.gov/
+https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=3572
+http://www.celestiamotherlode.net/catalog/solarsystem.php
+http://www.johnstonsarchive.net/spaceart/cylmaps.html
+
